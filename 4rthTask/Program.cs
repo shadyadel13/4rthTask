@@ -241,16 +241,16 @@ namespace _4rthTask
 //        {
 //            try
 //            {
-//                // Read a list of integers from the user
+
 //                Console.WriteLine("Enter a list of integers separated by spaces:");
 //                string input = Console.ReadLine();
 
-//                // Convert input to a list of integers
+
 //                List<int> numbers = input.Split(' ')
 //                                         .Select(int.Parse)
 //                                         .ToList();
 
-//                // Check for duplicates
+
 //                CheckForDuplicates(numbers);
 
 //                Console.WriteLine("No duplicates found. The list is valid.");
@@ -271,7 +271,7 @@ namespace _4rthTask
 
 //        static void CheckForDuplicates(List<int> numbers)
 //        {
-//            // Use a HashSet to detect duplicates
+
 //            HashSet<int> uniqueNumbers = new HashSet<int>();
 
 //            foreach (int number in numbers)
