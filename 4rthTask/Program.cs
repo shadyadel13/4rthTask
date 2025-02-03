@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 
@@ -298,8 +298,10 @@ namespace _4rthTask
 
 
 // second search
-//using System;
 
+//using System;
+//using System.Collections.Generic;
+//using System.Linq;
 //namespace VowelChecker
 //{
 //    class Program
